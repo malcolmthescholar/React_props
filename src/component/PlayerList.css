@@ -1,0 +1,14 @@
+.mt-4 {
+    text-align: center;
+}
+
+.text {
+    padding: 2em;
+
+}
+
+.box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 1em;
+}
